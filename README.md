@@ -4,10 +4,9 @@ Sou um desenvolver back-end com muita paixão na área de programação. Busco s
 
 ##  Sobre mim
 
--  Atualmente trabalhando com circuitos de placas eletrônicas, tanto no hardware e software**
+-  Atualmente trabalhando com **circuitos de placas eletrônicas, tanto no hardware e software**
 -  Estudando **Python, SQL e Data Science**
--  Pergunte-me sobre **o que me motiva nessa área, garanto boas horas de conversa com essa pergunta!**
--  Moro em **São Caetano do Sul, SP**
+-  Sou alguém **comunicativo, que gosta de trabalhar em equipe e solucionar problemas**
 
   Tecnologias
 
