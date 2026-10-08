@@ -22,11 +22,7 @@ Sou um desenvolver back-end com muita paixão na área de programação. Busco s
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-
-
-## 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guilherme-pontes7&show_icons=true&theme=default)
+![Snake animation](https://github.com/guilherme-pontes7-guilherme-pontes7/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Contato
 
