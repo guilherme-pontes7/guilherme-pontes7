@@ -24,7 +24,7 @@ Sou um desenvolver back-end com muita paixão na área de programação. Busco s
 
 ![Snake animation](https://github.com/guilherme-pontes7-guilherme-pontes7/blob/output/github-contribution-grid-snake.svg)
 
-## 📫 Contato
+##  Contatos
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-pontes-43ab22314?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![E-mail](https://img.shields.io/badge/-E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermepfria@hotmail.com)
