@@ -10,7 +10,7 @@ Sou um desenvolver back-end com muita paixão na área de programação. Busco s
 ##  Sobre mim
 
 -  Atualmente trabalhando com **circuitos de placas eletrônicas, tanto no hardware e software**
--  Estudando **Python, SQL e Data Science**
+-  Estudando **Python, SQL, Data Science e PowerBI**
 -  Sou alguém **comunicativo, que gosta de trabalhar em equipe e solucionar problemas**
 
 ##  Tecnologias
