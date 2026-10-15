@@ -34,7 +34,7 @@ Sou um desenvolver back-end com muita paixão na área de programação. Busco s
 ## Projetos
 - Meu projeto inicial, que é um jogo de advinhação do número secreto onde ele é sempre gerado de forma aleatória e sem repetições
 - Planilhas de organização no Excel, utilizei o VBA para automatizar a entrada e/ou saída de itens e gerar relatórios
-- Projeto em desenvolvimento "Sabor Express", próximo à lógica de um app de restaurante, onde estou treinando meus conhecimentos com Python, API, FastAPI e arquivos JSON
+- Projeto "Sabor Express", próximo à lógica de um app de restaurante, onde aprimorei meus conhecimentos com Python, API, FastAPI e arquivos JSON
 
 ##  Contatos
 
